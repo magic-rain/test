@@ -1,0 +1,29 @@
+{
+  "name": "magic_rain",
+  "version": "1.0.0",
+  "homepage": "https://github.com/magic-rain/test",
+  "authors": [
+    "magic_rain <magic_rain@sina.cn>"
+  ],
+  "description": "Bower and Git",
+  "main": "Master",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "GitHub",
+    "Bower",
+    "Nodejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
